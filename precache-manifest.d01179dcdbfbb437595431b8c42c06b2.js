@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a2d2a9576b52c2d4fc93bb8b6e0817c8",
+    "revision": "fbc38ebd37ab160ac02c9a4041700ed8",
     "url": "/quotetweeter/index.html"
   },
   {
-    "revision": "fccd2f4bb7cb695da839",
-    "url": "/quotetweeter/static/css/main.3af10b43.chunk.css"
+    "revision": "dc3aebd8a7e3c3e6f8b4",
+    "url": "/quotetweeter/static/css/main.babffb4b.chunk.css"
   },
   {
     "revision": "e02690618473588a88e1",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/quotetweeter/static/js/2.a10893fe.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fccd2f4bb7cb695da839",
-    "url": "/quotetweeter/static/js/main.f729539b.chunk.js"
+    "revision": "dc3aebd8a7e3c3e6f8b4",
+    "url": "/quotetweeter/static/js/main.21338c83.chunk.js"
   },
   {
     "revision": "628cc00f0f92a4274457",
