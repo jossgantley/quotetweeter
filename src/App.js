@@ -43,10 +43,10 @@ export class App extends Component {
   render() {
     return this.state.isLoading? (
       <div className="main">
-        <div className="container center heading">
+        <div className="heading">
           <h1 className="big-text">The Quote Tweeter</h1>
         </div>
-        <div className="container center">
+        <div className="spinner-container">
           <i className="loading spinner fas fa-spinner fa-spin"></i>
         </div>
       </div>
