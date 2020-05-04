@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/quotetweeter/static/css/main.9a251392.chunk.css",
-    "main.js": "/quotetweeter/static/js/main.1438ec86.chunk.js",
-    "main.js.map": "/quotetweeter/static/js/main.1438ec86.chunk.js.map",
+    "main.css": "/quotetweeter/static/css/main.3af10b43.chunk.css",
+    "main.js": "/quotetweeter/static/js/main.f729539b.chunk.js",
+    "main.js.map": "/quotetweeter/static/js/main.f729539b.chunk.js.map",
     "runtime-main.js": "/quotetweeter/static/js/runtime-main.d8e25dca.js",
     "runtime-main.js.map": "/quotetweeter/static/js/runtime-main.d8e25dca.js.map",
     "static/js/2.a10893fe.chunk.js": "/quotetweeter/static/js/2.a10893fe.chunk.js",
     "static/js/2.a10893fe.chunk.js.map": "/quotetweeter/static/js/2.a10893fe.chunk.js.map",
     "index.html": "/quotetweeter/index.html",
-    "precache-manifest.f413e92c49a177b8651b8a3048247786.js": "/quotetweeter/precache-manifest.f413e92c49a177b8651b8a3048247786.js",
+    "precache-manifest.5aee69b33492d7d4e1ae3859dde53c39.js": "/quotetweeter/precache-manifest.5aee69b33492d7d4e1ae3859dde53c39.js",
     "service-worker.js": "/quotetweeter/service-worker.js",
-    "static/css/main.9a251392.chunk.css.map": "/quotetweeter/static/css/main.9a251392.chunk.css.map",
+    "static/css/main.3af10b43.chunk.css.map": "/quotetweeter/static/css/main.3af10b43.chunk.css.map",
     "static/js/2.a10893fe.chunk.js.LICENSE.txt": "/quotetweeter/static/js/2.a10893fe.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d8e25dca.js",
     "static/js/2.a10893fe.chunk.js",
-    "static/css/main.9a251392.chunk.css",
-    "static/js/main.1438ec86.chunk.js"
+    "static/css/main.3af10b43.chunk.css",
+    "static/js/main.f729539b.chunk.js"
   ]
 }
