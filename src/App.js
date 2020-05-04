@@ -52,26 +52,26 @@ export class App extends Component {
       </div>
       ): (
       <div className="main">
-        <div className="container center heading">
+        <div className=" heading">
           <h1 className="big-text">The Quote Tweeter</h1>
         </div>
-        <div className="container center lightblue" id="quote-box">
-          <h2 className="quote-text center" id="text"><i 
+        <div className=" lightblue" id="quote-box">
+          <h2 className="quote-text " id="text"><i 
             className="darkblue fas fa-quote-left"></i> {this.state.text}
             </h2>
           <h4 className="darkblue author" id="author">-{this.state.author}</h4>
-          <button className="button waves-effect waves-light blue darken-4 btn-large left">
+          <button className="button ">
             <a className="twitter-share-button"id="tweet-quote"  
               href={`https://twitter.com/intent/tweet?text=${this.state.text}--${this.state.author}`} 
               target="_blank" rel="noopener noreferrer">
-                <i className="bird fab fa-twitter"></i>Tweet  
+                <i className="bird fab fa-twitter"></i> Tweet  
               </a>
             </button>
-            <button className="button waves-effect waves-light blue darken-4 btn-large right"
+            <button className="button"
               id="new-quote"onClick={this.handleClick}>New Quote
                 </button>
           </div>
-          <footer className=" center blue-text text-darken-4">by Joss Gantley</footer>
+          <footer className="footer-text">by Joss Gantley</footer>
         </div>
     )
   }
